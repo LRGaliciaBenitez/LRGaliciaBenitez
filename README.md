@@ -39,9 +39,9 @@ Estudiante de los últimos cuatrimestres de **Ingeniería en Software**, apasion
 ## 📊 Estadísticas de GitHub
 <div align="center">
 
-![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisGalicia&show_icons=true&theme=react)
+![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=LRGaliciaBenitez&show_icons=true&theme=react)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGalicia&layout=compact&theme=react)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=LRGaliciaBenitez&layout=compact&theme=react)
 
 </div>
 
