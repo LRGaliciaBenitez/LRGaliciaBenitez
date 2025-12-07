@@ -39,9 +39,11 @@ Estudiante de los últimos cuatrimestres de **Ingeniería en Software**, apasion
 ## 📊 Estadísticas de GitHub
 <div align="center">
 
-![Luis GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LRGaliciaBenitez&show_icons=true&theme=react)
+![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=lrgaliciabenitez&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
 
-![Top Lenguajes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LRGaliciaBenitez&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lrgaliciabenitez&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lrgaliciabenitez&theme=tokyonight&hide_border=true)
 
 </div>
 
